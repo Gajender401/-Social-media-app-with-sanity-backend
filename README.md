@@ -1,6 +1,9 @@
+# About 
+It is a backend app for creating and editing Schemas for frentend app.
+
 # Sanity Clean Content Studio
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+ Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
 Now you can do the following things:
 
